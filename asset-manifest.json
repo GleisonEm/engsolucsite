@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/engsolucsite/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/engsolucsite/static/js/main.01dbeed7.chunk.js",
+    "main.js.map": "/engsolucsite/static/js/main.01dbeed7.chunk.js.map",
+    "runtime-main.js": "/engsolucsite/static/js/runtime-main.4b76cb0c.js",
+    "runtime-main.js.map": "/engsolucsite/static/js/runtime-main.4b76cb0c.js.map",
+    "static/js/2.0bc91fcc.chunk.js": "/engsolucsite/static/js/2.0bc91fcc.chunk.js",
+    "static/js/2.0bc91fcc.chunk.js.map": "/engsolucsite/static/js/2.0bc91fcc.chunk.js.map",
+    "static/js/3.2f64226d.chunk.js": "/engsolucsite/static/js/3.2f64226d.chunk.js",
+    "static/js/3.2f64226d.chunk.js.map": "/engsolucsite/static/js/3.2f64226d.chunk.js.map",
+    "index.html": "/engsolucsite/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/engsolucsite/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0bc91fcc.chunk.js.LICENSE.txt": "/engsolucsite/static/js/2.0bc91fcc.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/engsolucsite/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b76cb0c.js",
+    "static/js/2.0bc91fcc.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.01dbeed7.chunk.js"
+  ]
+}
