@@ -58,6 +58,8 @@ export default function Orders({forms}) {
             <TableCell >Nos últimos 8 dias, sentiu algum desses sintomas ? *</TableCell>
             <TableCell >Alguém que reside no mesmo ambiente que você teve alguns desse sintomas ? *</TableCell>
             <TableCell >Confirmo que todas as respostas acima são verdadeiras. *</TableCell>
+            <TableCell >Tipo de alerta:</TableCell>
+            <TableCell >Pontos COVID:</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
@@ -73,6 +75,8 @@ export default function Orders({forms}) {
               <TableCell >{form.qfive_response}</TableCell>
               <TableCell >{form.qsix_response}</TableCell>
               <TableCell >{form.qseven_response}</TableCell>
+              <TableCell >{form.alert_text}</TableCell>
+              <TableCell >{form.points_covid}</TableCell>
             </TableRow>
           ))}
         </TableBody>
